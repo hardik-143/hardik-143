@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=hardik-143&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **hardik-143/hardik-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
