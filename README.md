@@ -41,7 +41,7 @@
 
 
 ## Want to see my latest spotify activity?
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hy8k0g4k3cevn6q3gza9ipwj7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hy8k0g4k3cevn6q3gza9ipwj7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=hy8k0g4k3cevn6q3gza9ipwj7&redirect=true)
 
 ## Connect with me:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thehardik.in//)
