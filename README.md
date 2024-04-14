@@ -38,3 +38,12 @@
 ![Inertia](https://img.shields.io/badge/inertia-5468ff?style=for-the-badge&logo=inertia&logoColor=white)
 ![Antd](https://img.shields.io/badge/antd-32c4fe?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Pug](https://img.shields.io/badge/pug-ecc9a2?style=for-the-badge&logo=pug&logoColor=black)
+
+
+## Want to see my latest spotify activity?
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hy8k0g4k3cevn6q3gza9ipwj7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+## Connect with me:
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thehardik.in//)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thehardik143/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__thehardik/)
