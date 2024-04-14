@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-![Github readme banner](https://github.com/hardik-143/hardik-43/assets/profile.gif)
+![Github readme banner](https://raw.githubusercontent.com/hardik-143/hardik-143/main/assets/profile.gif)
 
 ## 👋About Me:
 
